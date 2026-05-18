@@ -25,3 +25,7 @@ The main files and directories included in this repository are:
 * **`seed_MVTN_model.py`**: Contains the model definition of the Multi-View Tower Network (MVTN) for spatial and spectral feature decoupling and emotion classification.
 * **`SGA_model.py`**: Contains the logic implementation of the Structured Genetic Algorithm (SGA) for topology-constrained EEG channel search and optimization.
 * **`seed_MVTN_modelparameter/`**: A directory for storing weight parameters or pre-trained configurations related to the MVTN model.
+
+## Data
+* **`seed`**: https://bcmi.sjtu.edu.cn/home/seed/index.html
+* **`seed-iv`**: https://bcmi.sjtu.edu.cn/home/seed/seed-iv.html
